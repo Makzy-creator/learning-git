@@ -1,0 +1,6 @@
+# files to ignore
+
+.todo
+.DS_Store
+.Jpg
+
