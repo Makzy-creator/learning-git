@@ -1,6 +1,6 @@
 # git-essentials
 
-This project is specifically on mastering the essentials in git and github.
+This project is specifically built on mastering the essentials in git and github.
 
 ## Deployment notes
 
