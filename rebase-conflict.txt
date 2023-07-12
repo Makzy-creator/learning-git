@@ -1,0 +1,5 @@
+rebase-conflict-text 1 edited locally
+rebase-conflict-text 2 edited locallly
+rebase-conflict-text three edited locally
+rebase-conflict-text 4 edited locally
+rebase-conflict-text five edited locally
