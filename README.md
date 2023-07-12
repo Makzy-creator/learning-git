@@ -1,5 +1,7 @@
 # git-essentials
 
+To say something else (master branch) .
+
 This project is specifically built on mastering the essentials in git and github.
 
 ## Deployment notes
